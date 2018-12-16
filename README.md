@@ -1,4 +1,4 @@
-# DataCamp-projects
+# DataCamp Projects
 Notebooks of Datacamp projects.
 
 | Project | Description |
