@@ -15,4 +15,5 @@ My notebooks of [Datacamp](https://www.datacamp.com/profile/kouki) projects.
 | `Exploring 67 years of LEGO` | In this project we will explore a database of every LEGO set ever built. |
 | `Exploring the Bitcoin cryptocurrency market` | You will explore the market capitalization of Bitcoin and other cryptocurrencies. |
 | `Exploring the evolution of Linux` | Find out about the development of the Linux operating system by exploring its Git repository history. |
+| `The GitHub History of the Scala Language?` | Find the true Scala experts by exploring its development history in Git and GitHub. |
 | `Who Is Drunk and When in Ames, Iowa?` | Flex your pandas muscles on breath alcohol test data from Ames, Iowa, USA. |
