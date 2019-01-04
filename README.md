@@ -15,6 +15,7 @@ My notebooks of [Datacamp](https://www.datacamp.com/profile/kouki) projects.
 | `Exploring 67 years of LEGO` | In this project we will explore a database of every LEGO set ever built. |
 | `Exploring the Bitcoin cryptocurrency market` | You will explore the market capitalization of Bitcoin and other cryptocurrencies. |
 | `Exploring the evolution of Linux` | Find out about the development of the Linux operating system by exploring its Git repository history. |
+| `Mobile Games A/B Testing with Cookie Cats` | Analyze an A/B test from the popular mobile puzzle game, Cookie Cats. |
 | `Name Game: Gender Prediction using Sound` | Analyze the gender distribution of children's book writers and use sound to match names to gender. |
 | `Risk and Returns: The Sharpe Ratio` | Use pandas to calculate and compare profitability and risk of different investments using the Sharpe Ratio. |
 | `The GitHub History of the Scala Language?` | Find the true Scala experts by exploring its development history in Git and GitHub. |
