@@ -8,6 +8,7 @@ My notebooks of [Datacamp](https://www.datacamp.com/profile/kouki) projects.
 
 | Project | Description |
 | --- | --- |
+| `A Network analysis of Game of Thrones` | Analyze the network of characters in Game of Thrones and how it changes over the course of the books. |
 | `A New Era of Data Analysis in Baseball` | Use MLB's Statcast data to compare New York Yankees sluggers Aaron Judge and Giancarlo Stanton. |
 | `A Visual History of Nobel Prize Winners` | Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed? |
 | `Classify Song Genres from Audio Data` | Rock or rap? Apply machine learning methods in Python to classify songs into genres. |
