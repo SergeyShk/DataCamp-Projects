@@ -20,6 +20,7 @@ My notebooks of [Datacamp](https://www.datacamp.com/profile/kouki) projects.
 | `Generating Keywords for Google AdWords` | Automatically generate keywords for a search engine marketing campaign using Python. |
 | `Mobile Games A/B Testing with Cookie Cats` | Analyze an A/B test from the popular mobile puzzle game, Cookie Cats. |
 | `Name Game: Gender Prediction using Sound` | Analyze the gender distribution of children's book writers and use sound to match names to gender. |
+| `Predicting Credit Card Approvals` | Build a machine learning model to predict if a credit card application will get approved. |
 | `Recreating John Snow's Ghost Map` | Recreate John Snow's famous map of the 1854 cholera outbreak in London. |
 | `Reducing Traffic Mortality in the USA` | How can we find a good strategy for reducing traffic-related deaths? |
 | `Risk and Returns: The Sharpe Ratio` | Use pandas to calculate and compare profitability and risk of different investments using the Sharpe Ratio. |
