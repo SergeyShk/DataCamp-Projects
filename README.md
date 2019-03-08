@@ -25,4 +25,5 @@ My notebooks of [Datacamp](https://www.datacamp.com/profile/kouki) projects.
 | `Reducing Traffic Mortality in the USA` | How can we find a good strategy for reducing traffic-related deaths? |
 | `Risk and Returns: The Sharpe Ratio` | Use pandas to calculate and compare profitability and risk of different investments using the Sharpe Ratio. |
 | `The GitHub History of the Scala Language?` | Find the true Scala experts by exploring its development history in Git and GitHub. |
+| `TV, Halftime Shows, and the Big Game` | Load, clean, and explore Super Bowl data in the age of soaring ad costs and flashy halftime shows. |
 | `Who Is Drunk and When in Ames, Iowa?` | Flex your pandas muscles on breath alcohol test data from Ames, Iowa, USA. |
