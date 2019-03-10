@@ -18,6 +18,7 @@ My notebooks of [Datacamp](https://www.datacamp.com/profile/kouki) projects.
 | `Exploring the Bitcoin cryptocurrency market` | You will explore the market capitalization of Bitcoin and other cryptocurrencies. |
 | `Exploring the evolution of Linux` | Find out about the development of the Linux operating system by exploring its Git repository history. |
 | `Generating Keywords for Google AdWords` | Automatically generate keywords for a search engine marketing campaign using Python. |
+| `Give Life: Predict Blood Donations` | Build a binary classifier to predict if a blood donor is likely to donate again. |
 | `Mobile Games A/B Testing with Cookie Cats` | Analyze an A/B test from the popular mobile puzzle game, Cookie Cats. |
 | `Name Game: Gender Prediction using Sound` | Analyze the gender distribution of children's book writers and use sound to match names to gender. |
 | `Predicting Credit Card Approvals` | Build a machine learning model to predict if a credit card application will get approved. |
