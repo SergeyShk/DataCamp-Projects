@@ -32,3 +32,4 @@ My notebooks of [Datacamp](https://www.datacamp.com/profile/kouki) projects.
 | `TV, Halftime Shows, and the Big Game` | Load, clean, and explore Super Bowl data in the age of soaring ad costs and flashy halftime shows. |
 | `Which Debts Are Worth the Bank's Effort?` | Play bank data scientist and use regression discontinuity to see which debts are worth collecting. |
 | `Who Is Drunk and When in Ames, Iowa?` | Flex your pandas muscles on breath alcohol test data from Ames, Iowa, USA. |
+| `Word Frequency in Moby Dick` | Use web scraping and NLP to find the most frequent words in Herman Melville's novel, Moby Dick. |
