@@ -18,6 +18,7 @@ My notebooks of [Datacamp](https://www.datacamp.com/profile/kouki) projects.
 | `Exploring 67 years of LEGO` | In this project we will explore a database of every LEGO set ever built. |
 | `Exploring the Bitcoin cryptocurrency market` | You will explore the market capitalization of Bitcoin and other cryptocurrencies. |
 | `Exploring the evolution of Linux` | Find out about the development of the Linux operating system by exploring its Git repository history. |
+| `Find Movie Similarity from Plot Summaries` | Use NLP and clustering on movie plot summaries from IMDb and Wikipedia to quantify movie similarity. |
 | `Generating Keywords for Google AdWords` | Automatically generate keywords for a search engine marketing campaign using Python. |
 | `Give Life: Predict Blood Donations` | Build a binary classifier to predict if a blood donor is likely to donate again. |
 | `Mobile Games A/B Testing with Cookie Cats` | Analyze an A/B test from the popular mobile puzzle game, Cookie Cats. |
