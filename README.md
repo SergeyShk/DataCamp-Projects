@@ -31,6 +31,7 @@ My notebooks of [Datacamp](https://www.datacamp.com/profile/kouki) projects.
 | `The GitHub History of the Scala Language?` | Find the true Scala experts by exploring its development history in Git and GitHub. |
 | `The Hottest Topics in Machine Learning` | Use Natural Language Processing on NIPS papers to uncover the trendiest topics in machine learning research. |
 | `TV, Halftime Shows, and the Big Game` | Load, clean, and explore Super Bowl data in the age of soaring ad costs and flashy halftime shows. |
+| `Up and Down With the Kardashians` | Plot Google Trends data to find the most famous Kardashian/Jenner sister. Is it Kim? Kendall? Kylie? |
 | `Which Debts Are Worth the Bank's Effort?` | Play bank data scientist and use regression discontinuity to see which debts are worth collecting. |
 | `Who Is Drunk and When in Ames, Iowa?` | Flex your pandas muscles on breath alcohol test data from Ames, Iowa, USA. |
 | `Word Frequency in Moby Dick` | Use web scraping and NLP to find the most frequent words in Herman Melville's novel, Moby Dick. |
