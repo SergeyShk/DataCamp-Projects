@@ -14,6 +14,7 @@ My notebooks to [Datacamp](https://www.datacamp.com/profile/kouki) projects.
 | `Bad passwords and the NIST guidelines` | Check what passwords fail to conform to the National Institute of Standards and Technology password guidelines |
 | `Book Recommendations from Charles Darwin` | Build a book recommendation system using NLP and the text of books like "On the Origin of Species." |
 | `Classify Song Genres from Audio Data` | Rock or rap? Apply machine learning methods in Python to classify songs into genres. |
+| `Disney Movies and Box Office Success` | Explore Disney movie data, then build a linear regression model to predict box office success. |
 | `Do Left-handed People Really Die Young?` | Use pandas and Bayesian statistics to see if left-handed people actually die earlier than righties. |
 | `Dr. Semmelweis and the discovery of handwashing` | Reanalyse the data behind one of the most important discoveries of modern medicine: Handwashing. |
 | `Exploring 67 years of LEGO` | In this project we will explore a database of every LEGO set ever built. |
