@@ -27,6 +27,7 @@ My notebooks to [Datacamp](https://www.datacamp.com/profile/kouki) projects.
 | `Give Life: Predict Blood Donations` | Build a binary classifier to predict if a blood donor is likely to donate again. |
 | `Mobile Games A/B Testing with Cookie Cats` | Analyze an A/B test from the popular mobile puzzle game, Cookie Cats. |
 | `Name Game: Gender Prediction using Sound` | Analyze the gender distribution of children's book writers and use sound to match names to gender. |
+| `Naïve Bees: Deep Learning with Images` | Build a deep learning model that can automatically detect honey bees and bumble bees in images. |
 | `Naïve Bees: Image Loading and Processing` | Load, transform, and understand images of honey bees and bumble bees in Python. |
 | `Naïve Bees: Predict Species from Images` | Build a model that can automatically detect honey bees and bumble bees in images. |
 | `Predict Stock Trends from News Headlines` | Scrape news headlines for FB and TSLA then apply sentiment analysis to generate investment insight. |
