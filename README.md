@@ -13,6 +13,7 @@ My notebooks to [Datacamp](https://www.datacamp.com/profile/kouki) projects.
 | `A New Era of Data Analysis in Baseball` | Use MLB's Statcast data to compare New York Yankees sluggers Aaron Judge and Giancarlo Stanton. |
 | `A Visual History of Nobel Prize Winners` | Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed? |
 | `ASL Recognition with Deep Learning` | Build a convolutional neural network to classify images of letters from American Sign Language. |
+| `Analyze Your Runkeeper Fitness Data` | Import, clean, and analyze seven years worth of training data tracked on the Runkeeper app. |
 | `Bad passwords and the NIST guidelines` | Check what passwords fail to conform to the National Institute of Standards and Technology password guidelines |
 | `Book Recommendations from Charles Darwin` | Build a book recommendation system using NLP and the text of books like "On the Origin of Species." |
 | `Classify Song Genres from Audio Data` | Rock or rap? Apply machine learning methods in Python to classify songs into genres. |
