@@ -48,6 +48,11 @@ My notebooks to [Datacamp](https://www.datacamp.com/profile/kouki) projects.
 | `Who's Tweeting? Trump or Trudeau?` | Use web scraping and NLP to find the most frequent words in Herman Melville's novel, Moby Dick. |
 | `Word Frequency in Moby Dick` | Build a machine learning classifier that knows whether President Trump or Prime Minister Trudeau is tweeting! |
 
+## R
+| Project | Description |
+| --- | --- |
+| `Introduction to DataCamp Projects` | If you have never done a DataCamp project, this is the place to start! |
+
 ## SQL
 | Project | Description |
 | --- | --- |
