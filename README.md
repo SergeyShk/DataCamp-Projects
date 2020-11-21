@@ -48,6 +48,7 @@ My notebooks to [Datacamp](https://www.datacamp.com/profile/kouki) projects.
 | `Who Is Drunk and When in Ames, Iowa?` | Flex your pandas muscles on breath alcohol test data from Ames, Iowa, USA. |
 | `Who's Tweeting? Trump or Trudeau?` | Build a machine learning classifier that knows whether President Trump or Prime Minister Trudeau is tweeting! |
 | `Word Frequency in Moby Dick` | Use web scraping and NLP to find the most frequent words in Herman Melville's novel, Moby Dick. |
+| `Word Frequency in Peter Pan` | Use web scraping and NLP to find the most frequent words in Peter Pan by J. M. Barrie. |
 
 ## R
 | Project | Description |
