@@ -46,8 +46,8 @@ My notebooks to [Datacamp](https://www.datacamp.com/profile/kouki) projects.
 | `Up and Down With the Kardashians` | Plot Google Trends data to find the most famous Kardashian/Jenner sister. Is it Kim? Kendall? Kylie? |
 | `Which Debts Are Worth the Bank's Effort?` | Play bank data scientist and use regression discontinuity to see which debts are worth collecting. |
 | `Who Is Drunk and When in Ames, Iowa?` | Flex your pandas muscles on breath alcohol test data from Ames, Iowa, USA. |
-| `Who's Tweeting? Trump or Trudeau?` | Use web scraping and NLP to find the most frequent words in Herman Melville's novel, Moby Dick. |
-| `Word Frequency in Moby Dick` | Build a machine learning classifier that knows whether President Trump or Prime Minister Trudeau is tweeting! |
+| `Who's Tweeting? Trump or Trudeau?` | Build a machine learning classifier that knows whether President Trump or Prime Minister Trudeau is tweeting! |
+| `Word Frequency in Moby Dick` | Use web scraping and NLP to find the most frequent words in Herman Melville's novel, Moby Dick. |
 
 ## R
 | Project | Description |
