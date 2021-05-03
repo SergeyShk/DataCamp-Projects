@@ -1,0 +1,196 @@
+country_code,country,continent
+AFG,Afghanistan,Asia
+AGO,Angola,Africa
+ALB,Albania,Europe
+AND,Andorra,Europe
+ARE,United Arab Emirates,Asia
+ARG,Argentina,South America
+ARM,Armenia,Asia
+ATG,Antigua and Barbuda,North America
+AUS,Australia,Oceania
+AUT,Austria,Europe
+AZE,Azerbaijan,Asia
+BDI,Burundi,Africa
+BEL,Belgium,Europe
+BEN,Benin,Africa
+BFA,Burkina Faso,Africa
+BGD,Bangladesh,Asia
+BGR,Bulgaria,Europe
+BHR,Bahrain,Asia
+BHS,Bahamas,North America
+BIH,Bosnia and Herzegovina,Europe
+BLR,Belarus,Europe
+BLZ,Belize,North America
+BOL,"Bolivia, Plurinational State of",South America
+BRA,Brazil,South America
+BRB,Barbados,North America
+BRN,Brunei Darussalam,Asia
+BTN,Bhutan,Asia
+BWA,Botswana,Africa
+CAF,Central African Republic,Africa
+CAN,Canada,North America
+CHE,Switzerland,Europe
+CHL,Chile,South America
+CHN,China,Asia
+CIV,Côte d'Ivoire,Africa
+CMR,Cameroon,Africa
+COD,"Congo, The Democratic Republic of the",Africa
+COG,Congo,Africa
+COL,Colombia,South America
+COM,Comoros,Africa
+CPV,Cabo Verde,Africa
+CRI,Costa Rica,North America
+CUB,Cuba,North America
+CYP,Cyprus,Europe
+CZE,Czechia,Europe
+DEU,Germany,Europe
+DJI,Djibouti,Africa
+DMA,Dominica,North America
+DNK,Denmark,Europe
+DOM,Dominican Republic,North America
+DZA,Algeria,Africa
+ECU,Ecuador,South America
+EGY,Egypt,Africa
+ERI,Eritrea,Africa
+ESP,Spain,Europe
+EST,Estonia,Europe
+ETH,Ethiopia,Africa
+FIN,Finland,Europe
+FJI,Fiji,Oceania
+FRA,France,Europe
+FSM,"Micronesia, Federated States of",Oceania
+GAB,Gabon,Africa
+GBR,United Kingdom,Europe
+GEO,Georgia,Asia
+GHA,Ghana,Africa
+GIN,Guinea,Africa
+GMB,Gambia,Africa
+GNB,Guinea-Bissau,Africa
+GNQ,Equatorial Guinea,Africa
+GRC,Greece,Europe
+GRD,Grenada,North America
+GTM,Guatemala,North America
+GUY,Guyana,South America
+HND,Honduras,North America
+HRV,Croatia,Europe
+HTI,Haiti,North America
+HUN,Hungary,Europe
+IDN,Indonesia,Asia
+IND,India,Asia
+IRL,Ireland,Europe
+IRN,"Iran, Islamic Republic of",Asia
+IRQ,Iraq,Asia
+ISL,Iceland,Europe
+ISR,Israel,Asia
+ITA,Italy,Europe
+JAM,Jamaica,North America
+JOR,Jordan,Asia
+JPN,Japan,Asia
+KAZ,Kazakhstan,Asia
+KEN,Kenya,Africa
+KGZ,Kyrgyzstan,Asia
+KHM,Cambodia,Asia
+KIR,Kiribati,Oceania
+KNA,Saint Kitts and Nevis,North America
+KOR,"Korea, Republic of",Asia
+KWT,Kuwait,Asia
+LAO,Lao People's Democratic Republic,Asia
+LBN,Lebanon,Asia
+LBR,Liberia,Africa
+LBY,Libya,Africa
+LCA,Saint Lucia,North America
+LIE,Liechtenstein,Europe
+LKA,Sri Lanka,Asia
+LSO,Lesotho,Africa
+LTU,Lithuania,Europe
+LUX,Luxembourg,Europe
+LVA,Latvia,Europe
+MAR,Morocco,Africa
+MCO,Monaco,Europe
+MDA,"Moldova, Republic of",Europe
+MDG,Madagascar,Africa
+MDV,Maldives,Asia
+MEX,Mexico,North America
+MHL,Marshall Islands,Oceania
+MKD,North Macedonia,Europe
+MLI,Mali,Africa
+MLT,Malta,Europe
+MMR,Myanmar,Asia
+MNE,Montenegro,Europe
+MNG,Mongolia,Asia
+MOZ,Mozambique,Africa
+MRT,Mauritania,Africa
+MUS,Mauritius,Africa
+MWI,Malawi,Africa
+MYS,Malaysia,Asia
+NAM,Namibia,Africa
+NER,Niger,Africa
+NGA,Nigeria,Africa
+NIC,Nicaragua,North America
+NLD,Netherlands,Europe
+NOR,Norway,Europe
+NPL,Nepal,Asia
+NRU,Nauru,Oceania
+NZL,New Zealand,Oceania
+OMN,Oman,Asia
+PAK,Pakistan,Asia
+PAN,Panama,North America
+PER,Peru,South America
+PHL,Philippines,Asia
+PLW,Palau,Oceania
+PNG,Papua New Guinea,Oceania
+POL,Poland,Europe
+PRK,"Korea, Democratic People's Republic of",Asia
+PRT,Portugal,Europe
+PRY,Paraguay,South America
+PSE,"Palestine, State of",Asia
+QAT,Qatar,Asia
+ROU,Romania,Europe
+RUS,Russian Federation,Europe
+RWA,Rwanda,Africa
+SAU,Saudi Arabia,Asia
+SDN,Sudan,Africa
+SEN,Senegal,Africa
+SGP,Singapore,Asia
+SLB,Solomon Islands,Oceania
+SLE,Sierra Leone,Africa
+SLV,El Salvador,North America
+SOM,Somalia,Africa
+SRB,Serbia,Europe
+SSD,South Sudan,Africa
+STP,Sao Tome and Principe,Africa
+SUR,Suriname,South America
+SVK,Slovakia,Europe
+SVN,Slovenia,Europe
+SWE,Sweden,Europe
+SWZ,Eswatini,Africa
+SYC,Seychelles,Asia
+SYR,Syrian Arab Republic,Asia
+TCD,Chad,Africa
+TGO,Togo,Africa
+THA,Thailand,Asia
+TJK,Tajikistan,Asia
+TKM,Turkmenistan,Asia
+TLS,Timor-Leste,Asia
+TON,Tonga,Oceania
+TTO,Trinidad and Tobago,North America
+TUN,Tunisia,Africa
+TUR,Turkey,Asia
+TUV,Tuvalu,Oceania
+TWN,"Taiwan, Province of China",Asia
+TZA,"Tanzania, United Republic of",Africa
+UGA,Uganda,Africa
+UKR,Ukraine,Europe
+URY,Uruguay,South America
+USA,United States,North America
+UZB,Uzbekistan,Asia
+VCT,Saint Vincent and the Grenadines,North America
+VEN,"Venezuela, Bolivarian Republic of",South America
+VNM,Viet Nam,Asia
+VUT,Vanuatu,Oceania
+WSM,Samoa,Oceania
+YEM,Yemen,Asia
+ZAF,South Africa,Africa
+ZMB,Zambia,Africa
+ZWE,Zimbabwe,Africa
+XK,Kosovo,Europe
