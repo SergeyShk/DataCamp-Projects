@@ -39,6 +39,7 @@ My notebooks to [Datacamp](https://www.datacamp.com/profile/kouki) projects.
 | `Recreating John Snow's Ghost Map` | Recreate John Snow's famous map of the 1854 cholera outbreak in London. |
 | `Reducing Traffic Mortality in the USA` | How can we find a good strategy for reducing traffic-related deaths? |
 | `Risk and Returns: The Sharpe Ratio` | Use pandas to calculate and compare profitability and risk of different investments using the Sharpe Ratio. |
+| `Streamlining Employee Data` | Use DataFrames to read and merge employee data from different sources. |
 | `The Android App Market on Google Play` | Load, clean, and visualize scraped Google Play Store data to understand the Android app market. |
 | `The GitHub History of the Scala Language?` | Find the true Scala experts by exploring its development history in Git and GitHub. |
 | `The Hottest Topics in Machine Learning` | Use Natural Language Processing on NIPS papers to uncover the trendiest topics in machine learning research. |

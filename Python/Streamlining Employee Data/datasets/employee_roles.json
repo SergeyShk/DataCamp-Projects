@@ -1,0 +1,26 @@
+{
+  "A2R5H9":
+  {
+    "title": "CEO",
+    "monthly_salary": "$4500",
+    "team": "Leadership"
+  },
+  "H8K0L6":
+  {
+    "title": "CFO",
+    "monthly_salary": "$4500",
+    "team": "Leadership"
+  },
+  "G4R7V0":
+  {
+    "title": "Business Developer",
+    "monthly_salary": "$3000",
+    "team": "Sales"
+  },
+  "M1Z7U9":
+  {
+    "title": "Office Manager",
+    "monthly_salary": "$2000",
+    "team": "People Operations"
+  }
+}
