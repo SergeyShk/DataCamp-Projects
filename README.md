@@ -51,6 +51,7 @@ My notebooks to [Datacamp](https://www.datacamp.com/profile/kouki) projects.
 | `Who's Tweeting? Trump or Trudeau?` | Build a machine learning classifier that knows whether President Trump or Prime Minister Trudeau is tweeting! |
 | `Word Frequency in Moby Dick` | Use web scraping and NLP to find the most frequent words in Herman Melville's novel, Moby Dick. |
 | `Word Frequency in Peter Pan` | Use web scraping and NLP to find the most frequent words in Peter Pan by J. M. Barrie. |
+| `Writing Functions for Product Analysis` | Use coding best practices and functions to improve a script! |
 
 ## R
 | Project | Description |
