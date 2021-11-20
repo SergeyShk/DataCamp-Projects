@@ -28,6 +28,7 @@ My notebooks to [Datacamp](https://www.datacamp.com/profile/kouki) projects.
 | `Find Movie Similarity from Plot Summaries` | Use NLP and clustering on movie plot summaries from IMDb and Wikipedia to quantify movie similarity. |
 | `Generating Keywords for Google AdWords` | Automatically generate keywords for a search engine marketing campaign using Python. |
 | `Give Life: Predict Blood Donations` | Build a binary classifier to predict if a blood donor is likely to donate again. |
+| `Investigating Netflix Movies and Guest Stars in The Office` | Dig into a real-world Netflix movie dataset using everything from lists and loops to pandas and matplotlib. |
 | `Mobile Games A/B Testing with Cookie Cats` | Analyze an A/B test from the popular mobile puzzle game, Cookie Cats. |
 | `Name Game: Gender Prediction using Sound` | Analyze the gender distribution of children's book writers and use sound to match names to gender. |
 | `Naïve Bees: Deep Learning with Images` | Build a deep learning model that can automatically detect honey bees and bumble bees in images. |
