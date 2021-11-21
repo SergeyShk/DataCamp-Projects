@@ -21,7 +21,7 @@ My notebooks to [Datacamp](https://www.datacamp.com/profile/kouki) projects.
 | `Comparing Search Interest with Google Trends` | Analyze web browser market share between 2004-2020 using Google Trends and time series manipulation. |
 | `Disney Movies and Box Office Success` | Explore Disney movie data, then build a linear regression model to predict box office success. |
 | `Do Left-handed People Really Die Young?` | Use pandas and Bayesian statistics to see if left-handed people actually die earlier than righties. |
-| `Dr. Semmelweis and the discovery of handwashing` | Reanalyse the data behind one of the most important discoveries of modern medicine: Handwashing. |
+| `Dr. Semmelweis and the discovery of Handwashing` | Reanalyse the data behind one of the most important discoveries of modern medicine: Handwashing. |
 | `Exploring 67 years of LEGO` | In this project we will explore a database of every LEGO set ever built. |
 | `Exploring the Bitcoin cryptocurrency market` | You will explore the market capitalization of Bitcoin and other cryptocurrencies. |
 | `Exploring the evolution of Linux` | Find out about the development of the Linux operating system by exploring its Git repository history. |
@@ -57,6 +57,7 @@ My notebooks to [Datacamp](https://www.datacamp.com/profile/kouki) projects.
 ## R
 | Project | Description |
 | --- | --- |
+| `Dr. Semmelweis and the discovery of Handwashing` | Reanalyse the data behind one of the most important discoveries of modern medicine: Handwashing. |
 | `Introduction to DataCamp Projects` | If you have never done a DataCamp project, this is the place to start! |
 
 ## SQL
