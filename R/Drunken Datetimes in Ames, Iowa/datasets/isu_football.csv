@@ -1,0 +1,62 @@
+G,Date,Time,Day,School,Home,Opponent,Conf,Res,Pts,Opp,W,L,Streak,Notes,TV
+1,"Aug 31, 2013",8:00 PM,Sat,Iowa State,home,Northern Iowa,Non-Major,L,20,28,0,1,L 1,NA,NA
+2,"Sep 14, 2013",6:00 PM,Sat,Iowa State,home,Iowa,Big Ten,L,21,27,0,2,L 2,NA,NA
+3,"Sep 26, 2013",7:30 PM,Thu,Iowa State,away,Tulsa,CUSA,W,38,21,1,2,W 1,NA,NA
+4,"Oct 3, 2013",7:30 PM,Thu,Iowa State,home,Texas,Big 12,L,30,31,1,3,L 1,NA,NA
+5,"Oct 12, 2013",12:00 PM,Sat,Iowa State,away,(20) Texas Tech,Big 12,L,35,42,1,4,L 2,NA,NA
+6,"Oct 19, 2013",7:00 PM,Sat,Iowa State,away,(12) Baylor,Big 12,L,7,71,1,5,L 3,NA,NA
+7,"Oct 26, 2013",12:00 PM,Sat,Iowa State,home,(19) Oklahoma State,Big 12,L,27,58,1,6,L 4,NA,NA
+8,"Nov 2, 2013",3:30 PM,Sat,Iowa State,away,Kansas State,Big 12,L,7,41,1,7,L 5,NA,NA
+9,"Nov 9, 2013",12:00 PM,Sat,Iowa State,home,Texas Christian,Big 12,L,17,21,1,8,L 6,NA,NA
+10,"Nov 16, 2013",12:00 PM,Sat,Iowa State,away,(22) Oklahoma,Big 12,L,10,48,1,9,L 7,NA,NA
+11,"Nov 23, 2013",8:00 PM,Sat,Iowa State,home,Kansas,Big 12,W,34,0,2,9,W 1,NA,NA
+12,"Nov 30, 2013",4:00 PM,Sat,Iowa State,away,West Virginia,Big 12,W,52,44,3,9,W 2,NA,NA
+1,"Aug 30, 2014",12:00 PM,Sat,Iowa State,home,North Dakota State,Non-Major,L,14,34,0,1,L 1,NA,FS1
+2,"Sep 6, 2014",12:00 PM,Sat,Iowa State,home,(20) Kansas State,Big 12,L,28,32,0,2,L 2,NA,FS1
+3,"Sep 13, 2014",3:30 PM,Sat,Iowa State,away,Iowa,Big Ten,W,20,17,1,2,W 1,NA,ESPN
+4,"Sep 27, 2014",8:00 PM,Sat,Iowa State,home,(7) Baylor,Big 12,L,28,49,1,3,L 1,NA,FOX
+5,"Oct 4, 2014",12:00 PM,Sat,Iowa State,away,(21) Oklahoma State,Big 12,L,20,37,1,4,L 2,NA,FS1
+6,"Oct 11, 2014",3:30 PM,Sat,Iowa State,home,Toledo,MAC,W,37,30,2,4,W 1,NA,Mediacom Cable
+7,"Oct 18, 2014",8:00 PM,Sat,Iowa State,away,Texas,Big 12,L,45,48,2,5,L 1,NA,Longhorn Network
+8,"Nov 1, 2014",12:00 PM,Sat,Iowa State,home,(19) Oklahoma,Big 12,L,14,59,2,6,L 2,NA,FS1
+9,"Nov 8, 2014",3:30 PM,Sat,Iowa State,away,Kansas,Big 12,L,14,34,2,7,L 3,NA,"FSN-DET+, MSG+, MASN2"
+10,"Nov 22, 2014",3:30 PM,Sat,Iowa State,home,Texas Tech,Big 12,L,31,34,2,8,L 4,NA,FSN
+11,"Nov 29, 2014",12:00 PM,Sat,Iowa State,home,West Virginia,Big 12,L,24,37,2,9,L 5,NA,FS1
+12,"Dec 6, 2014",12:00 PM,Sat,Iowa State,away,(4) Texas Christian,Big 12,L,3,55,2,10,L 6,NA,ABC
+1,"Sep 5, 2015",8:00 PM,Sat,Iowa State,home,Northern Iowa,Non-Major,W,31,7,1,0,W 1,NA,NA
+2,"Sep 12, 2015",4:45 PM,Sat,Iowa State,home,Iowa,Big Ten,L,17,31,1,1,L 1,NA,NA
+3,"Sep 19, 2015",8:00 PM,Sat,Iowa State,away,Toledo,MAC,L,23,30,1,2,L 2,NA,NA
+4,"Oct 3, 2015",12:00 PM,Sat,Iowa State,home,Kansas,Big 12,W,38,13,2,2,W 1,NA,NA
+5,"Oct 10, 2015",3:30 PM,Sat,Iowa State,away,Texas Tech,Big 12,L,31,66,2,3,L 1,NA,NA
+6,"Oct 17, 2015",7:00 PM,Sat,Iowa State,home,(3) Texas Christian,Big 12,L,21,45,2,4,L 2,NA,NA
+7,"Oct 24, 2015",12:00 PM,Sat,Iowa State,away,(2) Baylor,Big 12,L,27,45,2,5,L 3,NA,NA
+8,"Oct 31, 2015",7:00 PM,Sat,Iowa State,home,Texas,Big 12,W,24,0,3,5,W 1,NA,NA
+9,"Nov 7, 2015",7:00 PM,Sat,Iowa State,away,(14) Oklahoma,Big 12,L,16,52,3,6,L 1,NA,NA
+10,"Nov 14, 2015",3:30 PM,Sat,Iowa State,home,(5) Oklahoma State,Big 12,L,31,35,3,7,L 2,NA,NA
+11,"Nov 21, 2015",12:00 PM,Sat,Iowa State,away,Kansas State,Big 12,L,35,38,3,8,L 3,NA,NA
+12,"Nov 28, 2015",12:00 PM,Sat,Iowa State,away,West Virginia,Big 12,L,6,30,3,9,L 4,NA,NA
+1,"Sep 3, 2016",8:00 PM,Sat,Iowa State,home,Northern Iowa,Non-Major,L,20,25,0,1,L 1,NA,
+2,"Sep 10, 2016",7:30 PM,Sat,Iowa State,away,(16) Iowa,Big Ten,L,3,42,0,2,L 2,NA,BTN
+3,"Sep 17, 2016",12:00 PM,Sat,Iowa State,away,Texas Christian,Big 12,L,20,41,0,3,L 3,NA,FS1
+4,"Sep 24, 2016",12:00 PM,Sat,Iowa State,home,San Jose State,MWC,W,44,10,1,3,W 1,NA,
+5,"Oct 1, 2016",12:00 PM,Sat,Iowa State,home,(13) Baylor,Big 12,L,42,45,1,4,L 1,NA,
+6,"Oct 8, 2016",3:30 PM,Sat,Iowa State,away,Oklahoma State,Big 12,L,31,38,1,5,L 2,NA,
+7,"Oct 15, 2016",7:00 PM,Sat,Iowa State,away,Texas,Big 12,L,6,27,1,6,L 3,NA,
+8,"Oct 29, 2016",12:00 PM,Sat,Iowa State,home,Kansas State,Big 12,L,26,31,1,7,L 4,NA,
+9,"Nov 3, 2016",7:30 PM,Thu,Iowa State,home,(12) Oklahoma,Big 12,L,24,34,1,8,L 5,NA,ESPN
+10,"Nov 12, 2016",12:00 PM,Sat,Iowa State,away,Kansas,Big 12,W,31,24,2,8,W 1,NA,
+11,"Nov 19, 2016",3:30 PM,Sat,Iowa State,home,Texas Tech,Big 12,W,66,10,3,8,W 2,NA,
+12,"Nov 26, 2016",3:30 PM,Sat,Iowa State,home,(19) West Virginia,Big 12,L,19,49,3,9,L 1,NA,
+1,"Sep 2, 2017",8:00 PM,Sat,Iowa State,home,Northern Iowa,Non-Major,W,42,24,1,0,W 1,,NA
+2,"Sep 9, 2017",12:00 PM,Sat,Iowa State,home,Iowa,Big Ten,L,41,44,1,1,L 1,,NA
+3,"Sep 16, 2017",12:00 PM,Sat,Iowa State,away,Akron,MAC,W,41,14,2,1,W 1,,NA
+4,"Sep 28, 2017",8:00 PM,Thu,Iowa State,home,Texas,Big 12,L,7,17,2,2,L 1,,NA
+5,"Oct 7, 2017",12:00 PM,Sat,Iowa State,away,(3) Oklahoma,Big 12,W,38,31,3,2,W 1,,NA
+6,"Oct 14, 2017",12:00 PM,Sat,Iowa State,home,Kansas,Big 12,W,45,0,4,2,W 2,,NA
+7,"Oct 21, 2017",12:00 PM,Sat,Iowa State,away,Texas Tech,Big 12,W,31,13,5,2,W 3,,NA
+8,"Oct 28, 2017",3:30 PM,Sat,(25) Iowa State,home,(4) Texas Christian,Big 12,W,14,7,6,2,W 4,,NA
+9,"Nov 4, 2017",3:30 PM,Sat,(14) Iowa State,away,West Virginia,Big 12,L,16,20,6,3,L 1,,NA
+10,"Nov 11, 2017",12:00 PM,Sat,(24) Iowa State,home,(12) Oklahoma State,Big 12,L,42,49,6,4,L 2,,NA
+11,"Nov 18, 2017",2:30 PM,Sat,Iowa State,away,Baylor,Big 12,W,23,13,7,4,W 1,,NA
+12,"Nov 25, 2017",3:30 PM,Sat,Iowa State,away,Kansas State,Big 12,L,19,20,7,5,L 1,,NA
+13,"Dec 30, 2017",12:30 PM,Sat,Iowa State,away,(19) Memphis,American,W,21,20,8,5,W 1,Liberty Bowl,NA
