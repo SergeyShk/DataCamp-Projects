@@ -65,6 +65,7 @@ My notebooks to [Datacamp](https://www.datacamp.com/profile/kouki) projects.
 | Project | Description |
 | --- | --- |
 | `Analyze International Debt Statistics` | Write SQL queries to answer interesting questions about international debt using data from The World Bank. |
+| `Clustering Bustabit Gambling Behavior` | Use cluster analysis to glean insights into cryptocurrency gambling behavior. |
 | `Introduction to DataCamp Projects` | If you've never done a DataCamp project, this is the place to start! |
 | `TV, Halftime Shows, and the Big Game` | Load, clean, and explore Super Bowl data in the age of soaring ad costs and flashy halftime shows. |
 | `What and Where Are the World's Oldest Businesses?` | Use SQL data manipulation and joins to discover the oldest businesses around the world. |
