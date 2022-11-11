@@ -70,3 +70,4 @@ My notebooks to [Datacamp](https://www.datacamp.com/profile/kouki) projects.
 | `Introduction to DataCamp Projects` | If you've never done a DataCamp project, this is the place to start! |
 | `TV, Halftime Shows, and the Big Game` | Load, clean, and explore Super Bowl data in the age of soaring ad costs and flashy halftime shows. |
 | `What and Where Are the World's Oldest Businesses?` | Use SQL data manipulation and joins to discover the oldest businesses around the world. |
+| `When Was the Golden Age of Video Games?` | Use joins and set theory to discover the best years for video games! |
