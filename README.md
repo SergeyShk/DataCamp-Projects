@@ -66,6 +66,7 @@ My notebooks to [Datacamp](https://www.datacamp.com/profile/kouki) projects.
 | Project | Description |
 | --- | --- |
 | `Analyze International Debt Statistics` | Write SQL queries to answer interesting questions about international debt using data from The World Bank. |
+| `Analyzing NYC Public School Test Result Scores` | Use summary statistics and filters to analyze test scores across New York City's public schools! |
 | `Clustering Bustabit Gambling Behavior` | Use cluster analysis to glean insights into cryptocurrency gambling behavior. |
 | `Introduction to DataCamp Projects` | If you've never done a DataCamp project, this is the place to start! |
 | `TV, Halftime Shows, and the Big Game` | Load, clean, and explore Super Bowl data in the age of soaring ad costs and flashy halftime shows. |
