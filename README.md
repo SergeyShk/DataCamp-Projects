@@ -66,6 +66,7 @@ My notebooks to [Datacamp](https://www.datacamp.com/profile/kouki) projects.
 | Project | Description |
 | --- | --- |
 | `Analyze International Debt Statistics` | Write SQL queries to answer interesting questions about international debt using data from The World Bank. |
+| `Analyzing American Baby Name Trends` | Use categorization and ranking techniques to explore 101 years of American baby name tastes. |
 | `Analyzing NYC Public School Test Result Scores` | Use summary statistics and filters to analyze test scores across New York City's public schools! |
 | `Clustering Bustabit Gambling Behavior` | Use cluster analysis to glean insights into cryptocurrency gambling behavior. |
 | `Introduction to DataCamp Projects` | If you've never done a DataCamp project, this is the place to start! |
