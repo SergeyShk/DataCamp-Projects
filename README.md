@@ -37,6 +37,7 @@ My notebooks to [Datacamp](https://www.datacamp.com/profile/kouki) projects.
 | `Naïve Bees: Predict Species from Images` | Build a model that can automatically detect honey bees and bumble bees in images. |
 | `Predict Stock Trends from News Headlines` | Scrape news headlines for FB and TSLA then apply sentiment analysis to generate investment insight. |
 | `Predicting Credit Card Approvals` | Build a machine learning model to predict if a credit card application will get approved. |
+| `Predicting Movie Rental Durations` | Build a regression model for a DVD rental firm to predict rental duration. Evaluate models to recommend the best one. |
 | `Predictive Modeling for Agriculture` | Dive into agriculture using supervised machine learning and feature selection to aid farmers in crop cultivation and solve real-world problems. |
 | `Real-time Insights from Social Media Data` | Learn to analyze Twitter data and do a deep dive into a hot trend. |
 | `Recreating John Snow's Ghost Map` | Recreate John Snow's famous map of the 1854 cholera outbreak in London. |
